@@ -1,0 +1,9 @@
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\bin\Debug\Fast_reading_project.exe.config
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\bin\Debug\Fast_reading_project.exe
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\bin\Debug\Fast_reading_project.pdb
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\obj\Debug\Fast_reading_project.csprojAssemblyReference.cache
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\obj\Debug\Fast_reading_project.Properties.Resources.resources
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\obj\Debug\Fast_reading_project.csproj.GenerateResource.cache
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\obj\Debug\Fast_reading_project.csproj.CoreCompileInputs.cache
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\obj\Debug\Fast_reading_project.exe
+C:\Users\79827\source\repos\Fast_reading_project\Fast_reading_project\obj\Debug\Fast_reading_project.pdb
