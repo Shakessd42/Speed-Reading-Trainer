@@ -14,7 +14,7 @@ namespace Fast_reading_project
 
         private void SetupCustomUI()
         {
-            this.Text = "Выбор класса";
+            this.Text = "Выбор уровня";
             this.Size = new Size(450, 600);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.BackColor = UIStyle.BackgroundColor;
